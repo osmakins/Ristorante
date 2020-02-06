@@ -33,5 +33,5 @@ npm install json-server -g
 ```command line
 json-server --watch -p 3001 -d 2000
 ```
-* Browse to *localhost:3001* on the browser.
+* Browse to *localhost:3000* on the browser.
 
