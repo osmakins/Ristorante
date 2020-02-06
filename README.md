@@ -26,7 +26,11 @@ Jogesh Mupala
 ## Dependencies
 Run with json-server module of the npm package. 
 * Install node.js
-* run shell command: ```npm install json-server -g´´´
-* while your shell current directory is in the app root directory, run: ```json-server --watch -p 3001 -d 2000´´´
+* run shell command: 
+```npm install json-server -g´´´
+
+* while your shell current directory is in the app root directory, run: 
+```json-server --watch -p 3001 -d 2000´´´
+
 * Browse to localhost:3001 on the browser.
 
