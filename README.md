@@ -3,11 +3,10 @@ Front-end web development with Reactjs offered by
 Hong kong University of science and technology on coursera
 
 ### Tutor:
-
 Jogesh Mupala
 
 
-## Main Topics learned during this project:
+## React topics on this project:
 
 * Basics of node.js and npm
 * React components life cycle
