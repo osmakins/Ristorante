@@ -6,7 +6,7 @@ Hong kong University of science and technology on coursera
 Jogesh Mupala
 
 
-## React topics on this project:
+## React topics covered on this project:
 
 * Basics of node.js and npm
 * React components life cycle
