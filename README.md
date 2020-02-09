@@ -29,7 +29,7 @@ Run with json-server module of the npm package.
 ```command line
 npm install json-server -g
 ```
-* while the cli current directory is in the app root directory, run: 
+* Change directory 'cd' to the app's root directory, run: 
 ```command line
 json-server --watch -p 3001 -d 2000
 ```
