@@ -25,11 +25,11 @@ Jogesh Mupala
 ## Dependencies
 Run with json-server module of the npm package. 
 * Install node.js
-* run shell command: 
+* run the cli command: 
 ```command line
 npm install json-server -g
 ```
-* while your shell current directory is in the app root directory, run: 
+* while the cli current directory is in the app root directory, run: 
 ```command line
 json-server --watch -p 3001 -d 2000
 ```
